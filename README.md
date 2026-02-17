@@ -28,7 +28,7 @@ This layered architecture provides a clear separation of concerns, enhancing sec
 * I have made a bash script for admins to simply create and each user and assign them to the specific departments (HR, Finance,..).
 
 ![Linux-high-level-archi](images/linux-high-level-archi.png)
-
+ 
 # Access Control & User Isolation
 
 I implemented a **file permissions model**, where there is group-based access control. Each department has its own Linux group and directory ownership. Permissions restrict access to the group only, while **setgid** ensures collaborative file sharing and the **sticky bit** prevents accidental deletion.
