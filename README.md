@@ -5,19 +5,21 @@
 * I have followed some and applied some on myself.
 * I won't share commands, I will share High-level architecture using diagrams and the configuration files found in **configuration-and-script_files** directory.  
 
-[High-Level Architecture: A Layered Approach](#high-level-architecture-a-layered-approach)
 
-[Access Control & User Isolation](#access-control--user-isolation)
+# Table of content
+* [High-Level Architecture: A Layered Approach](#high-level-architecture-a-layered-approach)
 
-[Compare between the two models (file permission model and Disk separation)](##compare-between-the-two-models-file-permission-model-and-disk-separation)
+* [Access Control & User Isolation](#access-control--user-isolation)
 
-[Service Deployment — HR Web Placeholder](#service-deployment--hr-web-placeholder)
+* [Compare between the two models (file permission model and Disk separation)](##compare-between-the-two-models-file-permission-model-and-disk-separation)
 
-[Automation](#automation)
+* [Service Deployment — HR Web Placeholder](#service-deployment--hr-web-placeholder)
 
-[Kickstart Deployment](##kickstart-deployment)
+* [Automation](#automation)
 
-[Robust Cron Backups](##robust-cron-backups)
+* [Kickstart Deployment](##kickstart-deployment)
+
+* [Robust Cron Backups](##robust-cron-backups)
 
 
 
