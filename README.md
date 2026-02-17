@@ -1,7 +1,7 @@
 # Rebuild a server with enterprises best practices
 
 * The point of this task is to a apply Enterprises best practices on a server. 
-* There is requirements for the server, could be found at [requirements](requirements).
+* There is requirements for the server, could be found at [requirements](requirements.md).
 * I have followed some and applied some on myself.
 * I won't share commands, I will share High-level architecture using diagrams and the configuration files found in **configuration-and-script_files** directory.  
 
