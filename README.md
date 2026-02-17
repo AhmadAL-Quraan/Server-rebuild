@@ -82,7 +82,9 @@ Automated provisioning ensures consistent, error-free server installations. This
 **INSTEAD OF manually configuring the installer:**
 
 ![](https://cdn.gamma.app/6yv5mnpl7b41twh/cbf75109dce64910b60126f41d6d5f03/original/image.png)
+
 * We used kickstart file:
+
 ![kickstart_file.png](images/kickstart_file.png)
 
 ## Robust Cron Backups
