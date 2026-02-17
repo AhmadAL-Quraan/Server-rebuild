@@ -5,17 +5,14 @@
 * I have followed some and applied some on myself.
 * I won't share commands, I will share High-level architecture using diagrams and the configuration files found in **configuration-and-script_files** directory.  
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
+[High-Level Architecture: A Layered Approach](#high-level-architecture-a-layered-approach)
+[Access Control & User Isolation](#access-control-&-user-isolation)
+
+Compare between the two models (file permission model and Disk separation).
+Service Deployment — HR Web Placeholder
+Automation
+Kickstart Deployment
+Robust Cron Backups
 
 
 
