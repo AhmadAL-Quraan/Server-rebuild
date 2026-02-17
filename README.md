@@ -1,4 +1,4 @@
-
+# Rebuild a server with enterprises best practices
 
 * The point of this task is to a apply Enterprises best practices on a server. 
 * There is requirements for the server, could be found at [requirements](requirements).
