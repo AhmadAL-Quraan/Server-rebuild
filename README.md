@@ -10,16 +10,14 @@
 - [High-Level Architecture: A Layered Approach](#high-level-architecture-a-layered-approach)
 
 - [Access Control & User Isolation](#access-control--user-isolation)
-
-- [Compare between the two models (file permission model and Disk separation)](#compare-between-the-two-models-file-permission-model-and-disk-separation)
+  - [Compare between the two models (file permission model and Disk separation)](#compare-between-the-two-models-file-permission-model-and-disk-separation)
 
 - [Service Deployment — HR Web Placeholder](#service-deployment--hr-web-placeholder)
 
 - [Automation](#automation)
+  - [Kickstart Deployment](#kickstart-deployment)
+  - [Robust Cron Backups](#robust-cron-backups)
 
-- [Kickstart Deployment](#kickstart-deployment)
-
-- [Robust Cron Backups](#robust-cron-backups)
 
 
 
