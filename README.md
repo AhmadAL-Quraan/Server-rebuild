@@ -27,8 +27,7 @@
 This layered architecture provides a clear separation of concerns, enhancing security, scalability, and ease of management. Each layer builds upon the one below it, creating a robust and modular system.
 * I have made a bash script for admins to simply create and each user and assign them to the specific departments (HR, Finance,..).
 
-![[linux-high-level-archi.png]]
-![Linux-high-level-archi](images/linux-high-level-archi)
+![Linux-high-level-archi](images/linux-high-level-archi.png)
 
 # Access Control & User Isolation
 
@@ -53,7 +52,7 @@ I implemented a **file permissions model**, where there is group-based access co
 | Resource efficiency       | High              | Lower                  |
 | Collaboration             | Easy              | Harder                 |
 
-![[Pasted image 20260217225842.png]]
+![User control](images/pasted-image-20260217225842.png)
 
 
 
