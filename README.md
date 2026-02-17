@@ -6,11 +6,17 @@
 * I won't share commands, I will share High-level architecture using diagrams and the configuration files found in **configuration-and-script_files** directory.  
 
 [High-Level Architecture: A Layered Approach](#high-level-architecture-a-layered-approach)
+
 [Access Control & User Isolation](#access-control--user-isolation)
+
 [Compare between the two models (file permission model and Disk separation)](##compare-between-the-two-models-file-permission-model-and-disk-separation)
+
 [Service Deployment — HR Web Placeholder](#service-deployment--hr-web-placeholder)
+
 [Automation](#automation)
+
 [Kickstart Deployment](##kickstart-deployment)
+
 [Robust Cron Backups](##robust-cron-backups)
 
 
