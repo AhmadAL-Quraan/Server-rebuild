@@ -6,13 +6,12 @@
 * I won't share commands, I will share High-level architecture using diagrams and the configuration files found in **configuration-and-script_files** directory.  
 
 [High-Level Architecture: A Layered Approach](#high-level-architecture-a-layered-approach)
-[Access Control & User Isolation](#access-control-&-user-isolation)
-
-Compare between the two models (file permission model and Disk separation).
-Service Deployment — HR Web Placeholder
-Automation
-Kickstart Deployment
-Robust Cron Backups
+[Access Control & User Isolation](#access-control--user-isolation)
+[Compare between the two models (file permission model and Disk separation)](##compare-between-the-two-models-file-permission-model-and-disk-separation)
+[Service Deployment — HR Web Placeholder](#service-deployment--hr-web-placeholder)
+[Automation](#automation)
+[Kickstart Deployment](##kickstart-deployment)
+[Robust Cron Backups](##robust-cron-backups)
 
 
 
@@ -32,7 +31,7 @@ I implemented a **file permissions model**, where there is group-based access co
 
 * I used setgid and sticky bit for directory-based collaboration and isolation.
 
->[!note] Of-course we could use other models like **separation by disk**, where each department has it's own disk.
+>[!note] Of-course we could use other models like **separation by disk**, where each department has it's own disk
 
 ## Compare between the two models (file permission model and Disk separation).
 
