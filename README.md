@@ -52,7 +52,7 @@ I implemented a **file permissions model**, where there is group-based access co
 | Resource efficiency       | High              | Lower                  |
 | Collaboration             | Easy              | Harder                 |
 
-![User control](images/pasted-image-20260217225842.png)
+![User control](images/user-control.png)
 
 
 
@@ -64,7 +64,7 @@ I implemented a **file permissions model**, where there is group-based access co
 - Open port 82 for Nginx to listen on.
 - Allow traffic for port 82 on firewall.
 
-![[Pasted image 20260217232230.png]]
+![](images/placeholder.png)
 
 
 
@@ -83,10 +83,10 @@ Automated provisioning ensures consistent, error-free server installations. This
 
 ![](https://cdn.gamma.app/6yv5mnpl7b41twh/cbf75109dce64910b60126f41d6d5f03/original/image.png)
 * We used kickstart file:
-![[kickstart_file.png]]
+![kickstart_file.png](images/kickstart_file.png)
 
 ## Robust Cron Backups
 
 Scheduled backups of critical data and configurations provide a reliable recovery point, minimizing data loss in case of an incident. Comprehensive backup strategies are integral to business continuity.
 
-![[Pasted image 20260217232324.png]]
+![Pasted image 20260217232324.png](images/crontab.png)
